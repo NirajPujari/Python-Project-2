@@ -1,2 +1,5 @@
-# Python-Project-2
-In this project we have tried to create a Interactive poster and a gui based program on the New Education Policy which is going to be implemented in india soon. 
+# Python-Projec
+To run the Program then run the main.py file and it will do all the work 
+KEEP IN MIND 
+Put your Scale to 125%
+Keep all the files in a single folder
